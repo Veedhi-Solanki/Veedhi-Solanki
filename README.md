@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Veedhi-Solanki
+- 👀 I’m interested in bioinformatics, genomics, and data science. I love exploring the intersection of biology and technology to solve complex biological problems.
+- 🌱 I’m currently learning advanced machine learning techniques and their applications in bioinformatics. I'm also diving deeper into cloud computing with AWS and Google Cloud.
+- 💞️ I’m looking to collaborate on innovative bioinformatics projects, particularly those involving large-scale data analysis, genome sequencing, and proteomics.
+- 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/veedhi-solanki-21187827a/) or email me at veedhisolanki13579@gmail.com.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I once collaborated on a project to develop a sustainable dialysis machine for communities in Nigeria!
